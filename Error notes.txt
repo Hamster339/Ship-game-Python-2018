@@ -1,0 +1,3 @@
+
+Bug: images slow
+fix: .convert()
